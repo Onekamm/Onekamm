@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kam
-- 🌱 I’m currently learning Cybersecurity with Software engineering aspects thrown in to have broader knowledge 
+- 🌱 I’m currently learning cybersecurity with aspects of software engineering and Devops thrown in
 
 - 📫 How to reach me kameronj40@gmail.com
 
